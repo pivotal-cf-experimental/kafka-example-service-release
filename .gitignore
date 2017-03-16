@@ -5,3 +5,5 @@ config/private.yml
 .blobs
 config/dev.yml
 releases/**/*.tgz
+.final_builds/jobs/**/*.tgz
+.final_builds/packages/**/*.tgz

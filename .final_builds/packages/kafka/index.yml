@@ -1,0 +1,7 @@
+---
+builds:
+  19b391f16f78880c9ccef4f6048626c2382c9575:
+    version: 19b391f16f78880c9ccef4f6048626c2382c9575
+    sha1: bc255acceafddd99fc7db74801aa170e8c4321ce
+    blobstore_id: a5aa9555-7dee-4592-901f-48dbd655cb45
+format-version: '2'

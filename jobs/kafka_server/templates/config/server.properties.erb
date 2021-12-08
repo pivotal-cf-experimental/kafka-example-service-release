@@ -20,7 +20,7 @@
 ############################# Server Basics #############################
 
 # The id of the broker. This must be set to a unique integer for each broker.
-broker.id=<%= link('kafka').instances.map(&:address).index(ip_address) %>
+broker.id=<%= spec.index %>
 
 ############################# Socket Server Settings #############################
 
